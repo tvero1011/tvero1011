@@ -1,12 +1,10 @@
 # Hi, I'm Rovert Pangan 👋
 
-**AWS Certified Solutions Architect – Associate (SAA-C03)**
+**AWS Certified Solutions Architect – Associate (SAA-C03)** • **HashiCorp Certified: Terraform Associate**
 
 Cloud Engineer • Automation Engineer • Infrastructure as Code Enthusiast
 
-I build cloud infrastructure and automation solutions using AWS, Terraform, Docker, and modern workflow automation platforms. My projects focus on Infrastructure as Code, serverless applications, AI-powered workflows, and cloud automation through hands-on engineering.
-
-Currently expanding my expertise in Microsoft Azure while building practical cloud and automation projects.
+I build cloud infrastructure and automation solutions using AWS, Terraform, and modern workflow automation platforms. My work focuses on Infrastructure as Code, AI-powered workflows, and cloud automation through hands-on engineering — currently expanding into Python for cloud tooling and Microsoft Azure.
 
 ---
 
@@ -14,9 +12,9 @@ Currently expanding my expertise in Microsoft Azure while building practical clo
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
-| ☁️ ShopFast Infrastructure | Production-style AWS infrastructure provisioned with Terraform using ECS Fargate, RDS, ALB, IAM, and modular Infrastructure as Code. | Terraform • AWS • Docker |
-| 🖼️ Serverless Image API | Serverless image upload application built with AWS Lambda, API Gateway, Amazon S3, DynamoDB, and Terraform. | AWS • Terraform • Node.js |
-| 🤖 AI Video Production Platform | Self-hosted n8n automation platform that has generated and published over **1,000 AI-assisted videos** across multiple YouTube channels. | n8n • OpenAI • Docker |
+| ☁️ ShopFast Infrastructure | Production-style AWS infrastructure provisioned with Terraform using ECS Fargate, ALB, IAM, and modular multi-AZ VPC networking. | Terraform • AWS |
+| 🐍 AWS DevOps Automation Toolkit | Python CLI toolkit (in active development) automating AWS operations — EC2 health checks, CloudWatch alerting, and log monitoring, with API health checks and S3 auditing in progress. | Python • boto3 • pytest |
+| 🤖 AI Video Production Platform | Self-hosted n8n automation platform that has generated and published over **1,000 AI-assisted videos** across multiple YouTube channels. | n8n • OpenAI • Google Gemini |
 | 💬 Customer Signal Processor | AI-powered workflow that analyzes customer sentiment using an LLM and routes high-priority issues to Slack for escalation. | n8n • OpenAI • Slack API |
 | 📊 Xero → Asana Financial Automation | Automated workflow that retrieves accounting data, transforms reports, and creates structured project tasks. | Make.com • Xero API • Asana API |
 
@@ -26,13 +24,10 @@ Currently expanding my expertise in Microsoft Azure while building practical clo
 
 ### Cloud
 - AWS
-- Microsoft Azure *(Currently Learning)*
+- Microsoft Azure *(Self-Study)*
 
 ### Infrastructure as Code
 - Terraform
-
-### Containers
-- Docker
 
 ### Automation
 - n8n
@@ -40,8 +35,8 @@ Currently expanding my expertise in Microsoft Azure while building practical clo
 - Zapier
 
 ### Programming
-- JavaScript
-- Node.js
+- Python *(Learning — building cloud automation projects)*
+- JavaScript / Node.js
 
 ### Version Control
 - Git
@@ -52,15 +47,16 @@ Currently expanding my expertise in Microsoft Azure while building practical clo
 ## 📜 Certifications
 
 - ✅ AWS Certified Solutions Architect – Associate (SAA-C03)
-- 📘 Microsoft Azure Administrator Associate (AZ-104) *(In Progress)*
+- ✅ HashiCorp Certified: Terraform Associate
+- 📘 Microsoft Azure Fundamentals *(Self-Study)*
 
 ---
 
 ## 🌱 Currently Learning
 
-- Microsoft Azure (AZ-104)
-- Kubernetes Fundamentals
-- Advanced Docker
+- Python for cloud automation and DevOps tooling
+- Microsoft Azure fundamentals
+- Docker, CI/CD, and Kubernetes *(planned next)*
 
 ---
 
